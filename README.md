@@ -2,7 +2,7 @@ leetcode-solution-by-myself
 ==
 This the solution for laicode which are written by myself.
 
-DFS
+DFS&Backtrack
 --
 * [62. All Subsets I（全子集）](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/62.%20All%20Subsets%20I.md)
 
