@@ -1,8 +1,8 @@
-leetcode-solution-by-myself
+Leetcode-solution-by-myself
 ==
 This the solution for laicode which are written by myself.
 
-DFS&Backtrack
+DFS & Backtrack
 --
 * [66. All Valid Permutations Of Parentheses I（括号生成）](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/66.%20All%20Valid%20Permutations%20Of%20Parentheses%20I.md)
 
