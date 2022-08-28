@@ -7,6 +7,8 @@ LinkedList
 
 * [653. Reverse Linked List (recursive)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/653.%20Reverse%20Linked%20List%20(recursive).md)
 
+* [35. Reverse Linked List In Pairs](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/35.%20Reverse%20Linked%20List%20In%20Pairs.md)
+
 DFS & Backtrack
 --
 
