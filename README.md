@@ -5,7 +5,7 @@ This the solution for laicode which are written by myself.
 LinkedList
 --
 
-* [653. Reverse Linked List (recursive)]()
+* [653. Reverse Linked List (recursive)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/653.%20Reverse%20Linked%20List%20(recursive).md)
 
 DFS & Backtrack
 --
