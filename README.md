@@ -32,3 +32,5 @@ Recursion
 * [121. Spiral Order Traverse I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/121.%20Spiral%20Order%20Traverse%20I.md)
 
 * [126. Lowest Common Ancestor I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/126.%20Lowest%20Common%20Ancestor%20I.md)
+
+* [646. Store Number Of Nodes In Left Subtree](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/646.%20Store%20Number%20Of%20Nodes%20In%20Left%20Subtree.md)
