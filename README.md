@@ -2,6 +2,11 @@ Leetcode-solution-by-myself
 ==
 This the solution for laicode which are written by myself.
 
+HashTable and String I
+--
+
+* [395. Remove Certain Characters](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/395.%20Remove%20Certain%20Characters.md)
+
 LinkedList
 --
 
