@@ -9,6 +9,8 @@ Binary Search
 
 * [267. Search In Sorted Matrix I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/267.%20Search%20In%20Sorted%20Matrix%20I.md)
 
+* [17. Closest In Sorted Array](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/17.%20Closest%20In%20Sorted%20Array.md)
+
 HashTable and String I
 --
 
