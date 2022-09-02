@@ -11,6 +11,8 @@ Binary Search
 
 * [17. Closest In Sorted Array](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/17.%20Closest%20In%20Sorted%20Array.md)
 
+* [15. First Occurrence](https://github.com/yzyolala/leetcode-solution-by-myself/edit/main/15.%20First%20Occurrence.md)
+
 HashTable and String I
 --
 
