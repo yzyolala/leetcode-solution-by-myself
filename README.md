@@ -2,6 +2,11 @@ Leetcode-solution-by-myself
 ==
 This the solution for laicode which are written by myself.
 
+Binary Search
+--
+
+* [14. Classical Binary Search]()
+
 HashTable and String I
 --
 
