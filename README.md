@@ -13,6 +13,14 @@ Binary Search
 
 * [15. First Occurrence](https://github.com/yzyolala/leetcode-solution-by-myself/edit/main/15.%20First%20Occurrence.md)
 
+LinkedList
+--
+
+* [653.Reverse Linked List ](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/653.%20Reverse%20Linked%20List.md)
+
+* [35. Reverse Linked List In Pairs](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/35.%20Reverse%20Linked%20List%20In%20Pairs.md)
+
+
 HashTable and String I
 --
 
@@ -21,13 +29,6 @@ HashTable and String I
 * [397. Right Shift By N Characters](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/397.%20Right%20Shift%20By%20N%20Characters.md)
 
 * [84. Reverse Words In A Sentence I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/84.%20Reverse%20Words%20In%20A%20Sentence%20I.md)
-
-LinkedList
---
-
-* [653. Reverse Linked List (recursive)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/653.%20Reverse%20Linked%20List%20(recursive).md)
-
-* [35. Reverse Linked List In Pairs](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/35.%20Reverse%20Linked%20List%20In%20Pairs.md)
 
 DFS & Backtrack
 --
