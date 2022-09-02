@@ -7,7 +7,7 @@ Binary Search
 
 * [14. Classical Binary Search](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/14.%20Classical%20Binary%20Search.md)
 
-* [267. Search In Sorted Matrix I]()
+* [267. Search In Sorted Matrix I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/267.%20Search%20In%20Sorted%20Matrix%20I.md)
 
 HashTable and String I
 --
