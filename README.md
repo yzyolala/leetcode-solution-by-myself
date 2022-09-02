@@ -5,7 +5,7 @@ This the solution for laicode which are written by myself.
 Binary Search
 --
 
-* [14. Classical Binary Search]()
+* [14. Classical Binary Search](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/14.%20Classical%20Binary%20Search.md)
 
 HashTable and String I
 --
