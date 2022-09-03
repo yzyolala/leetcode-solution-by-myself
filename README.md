@@ -24,6 +24,8 @@ LinkedList
 
 * [37. Check If Linked List Has A Cycle](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/37.%20Check%20If%20Linked%20List%20Has%20A%20Cycle.md)
 
+* [414. Remove Linked List Elements]()
+
 * [39. Insert In Sorted Linked List](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/39.%20Insert%20In%20Sorted%20Linked%20List.md)
 
 * [40. Merge Two Sorted Linked Lists](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/40.%20Merge%20Two%20Sorted%20Linked%20Lists.md)
@@ -33,6 +35,10 @@ LinkedList
 * [29. Merge Sort Linked List](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/29.%20Merge%20Sort%20Linked%20List.md)
 
 * [42. Partition Linked List](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/42.%20Partition%20Linked%20List.md)
+
+* [223. Add Two Numbers]()
+
+* [306. Check If Linked List Is Palindrome]()
 
 
 HashTable and String I
