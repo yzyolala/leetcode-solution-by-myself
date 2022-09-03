@@ -26,7 +26,7 @@ LinkedList
 
 * [39. Insert In Sorted Linked List](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/39.%20Insert%20In%20Sorted%20Linked%20List.md)
 
-* []()
+* [40. Merge Two Sorted Linked Lists](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/40.%20Merge%20Two%20Sorted%20Linked%20Lists.md)
 
 
 HashTable and String I
