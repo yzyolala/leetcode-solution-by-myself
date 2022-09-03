@@ -30,6 +30,8 @@ LinkedList
 
 * [41. ReOrder Linked List](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/41.%20ReOrder%20Linked%20List.md)
 
+* [29. Merge Sort Linked List](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/29.%20Merge%20Sort%20Linked%20List.md)
+
 * [42. Partition Linked List](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/42.%20Partition%20Linked%20List.md)
 
 
