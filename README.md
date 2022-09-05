@@ -47,6 +47,8 @@ Queue & Stack
 
 * [31. Queue By Two Stacks](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/31.%20Queue%20By%20Two%20Stacks.md)
 
+* [32. Stack With min()](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/32.%20Stack%20With%20min().md)
+
 HashTable and String I
 --
 
