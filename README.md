@@ -45,6 +45,8 @@ Queue & Stack
 
 * [280. Sort With 2 Stacks](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/280.%20Sort%20With%202%20Stacks.md)
 
+* [31. Queue By Two Stacks](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/31.%20Queue%20By%20Two%20Stacks.md)
+
 HashTable and String I
 --
 
