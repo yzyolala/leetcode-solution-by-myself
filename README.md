@@ -49,6 +49,12 @@ Queue & Stack
 
 * [32. Stack With min()](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/32.%20Stack%20With%20min().md)
 
+BinaryTree
+--
+
+* [655. Pre-order Traversal Of Binary Tree (recursive)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/655.%20Pre-order%20Traversal%20Of%20Binary%20Tree%20(recursive).md)
+
+
 HashTable and String I
 --
 
