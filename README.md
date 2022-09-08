@@ -72,6 +72,17 @@ BinaryTree
 
 * [53. Delete In Binary Search Tree](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/53.%20Delete%20In%20Binary%20Search%20Tree.md)
 
+Heap and Graph Search I : BFS
+--
+
+* [25. K Smallest In Unsorted Array](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/25.%20K%20Smallest%20In%20Unsorted%20Array.md)
+
+* [57. Get Keys In Binary Tree Layer By Layer](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/57.%20Get%20Keys%20In%20Binary%20Tree%20Layer%20By%20Layer.md)
+
+* [47. Check If Binary Tree Is Completed](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/47.%20Check%20If%20Binary%20Tree%20Is%20Completed.md)
+
+* []()
+
 
 HashTable and String I
 --
