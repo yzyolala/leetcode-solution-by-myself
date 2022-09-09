@@ -81,7 +81,7 @@ Heap and Graph Search I : BFS
 
 * [47. Check If Binary Tree Is Completed](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/47.%20Check%20If%20Binary%20Tree%20Is%20Completed.md)
 
-* []()
+* [26. Kth Smallest Number In Sorted Matrix]()
 
 
 HashTable and String I
