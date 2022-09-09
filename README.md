@@ -83,16 +83,6 @@ Heap and Graph Search I : BFS
 
 * [26. Kth Smallest Number In Sorted Matrix](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/26.%20Kth%20Smallest%20Number%20In%20Sorted%20Matrix.md)
 
-
-HashTable and String I
---
-
-* [395. Remove Certain Characters](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/395.%20Remove%20Certain%20Characters.md)
-
-* [397. Right Shift By N Characters](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/397.%20Right%20Shift%20By%20N%20Characters.md)
-
-* [84. Reverse Words In A Sentence I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/84.%20Reverse%20Words%20In%20A%20Sentence%20I.md)
-
 DFS & Backtrack
 --
 
@@ -109,6 +99,18 @@ DFS & Backtrack
 * [640. All Subsets of Size K](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/640.%20All%20Subsets%20of%20Size%20K.md)
 
 * [641. All Subsets II of Size K](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/641.%20All%20Subsets%20II%20of%20Size%20K.md)
+
+
+
+HashTable and String I
+--
+
+* [395. Remove Certain Characters](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/395.%20Remove%20Certain%20Characters.md)
+
+* [397. Right Shift By N Characters](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/397.%20Right%20Shift%20By%20N%20Characters.md)
+
+* [84. Reverse Words In A Sentence I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/84.%20Reverse%20Words%20In%20A%20Sentence%20I.md)
+
 
 Recursion
 --
