@@ -113,6 +113,12 @@ HashTable and String I
 
 * [84. Reverse Words In A Sentence I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/84.%20Reverse%20Words%20In%20A%20Sentence%20I.md)
 
+* [281. Remove Spaces](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/281.%20Remove%20Spaces.md)
+
+* [79. Remove Adjacent Repeated Characters I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/79.%20Remove%20Adjacent%20Repeated%20Characters%20I.md)
+
+* [396. Reverse String](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/396.%20Reverse%20String.md)
+
 Recursion
 --
 
