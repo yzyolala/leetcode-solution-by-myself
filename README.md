@@ -100,10 +100,12 @@ DFS & Backtrack
 
 * [641. All Subsets II of Size K](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/641.%20All%20Subsets%20II%20of%20Size%20K.md)
 
-
-
 HashTable and String I
 --
+
+* [68. Missing Number I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/68.%20Missing%20Number%20I.md)
+
+* [652. Common Numbers Of Two Sorted Arrays(Array version)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/652.%20Common%20Numbers%20Of%20Two%20Sorted%20Arrays(Array%20version).md)
 
 * [395. Remove Certain Characters](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/395.%20Remove%20Certain%20Characters.md)
 
