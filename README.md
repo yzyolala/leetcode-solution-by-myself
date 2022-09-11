@@ -54,6 +54,8 @@ BinaryTree
 
 * [655. Pre-order Traversal Of Binary Tree (recursive)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/655.%20Pre-order%20Traversal%20Of%20Binary%20Tree%20(recursive).md)
 
+* [44. Pre-order Traversal Of Binary Tree (iterative)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/44.%20Pre-order%20Traversal%20Of%20Binary%20Tree%20(iterative).md)
+
 * [60. Height of Binary Tree](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/60.%20Height%20of%20Binary%20Tree.md)
 
 * [46. Check If Binary Tree Is Balanced](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/46.%20Check%20If%20Binary%20Tree%20Is%20Balanced.md)
