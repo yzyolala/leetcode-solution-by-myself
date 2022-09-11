@@ -94,6 +94,8 @@ DFS & Backtrack
 
 * [64. All Permutations I（全排列）](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/64.%20All%20Permutations%20I.md)
 
+* [65. All Permutations II](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/65.%20All%20Permutations%20II.md)
+
 * [643. All Permutations of Subsets](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/643.%20All%20Permutations%20of%20Subsets.md)
 
 * [640. All Subsets of Size K](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/640.%20All%20Subsets%20of%20Size%20K.md)
