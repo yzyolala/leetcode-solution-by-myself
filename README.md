@@ -138,3 +138,11 @@ Cross Training I
 --
 
 * [115. Array Deduplication I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/115.%20Array%20Deduplication%20I.md)
+
+* [259. Move 0s To The End II](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/259.%20Move%200s%20To%20The%20End%20II.md)
+
+* [368. Lowest Common Ancestor Binary Search Tree I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/368.%20Lowest%20Common%20Ancestor%20Binary%20Search%20Tree%20I.md)
+
+* [180. 2 Sum](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/180.%202%20Sum.md)
+
+* [103. Longest Consecutive 1s](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/103.%20Longest%20Consecutive%201s.md)
