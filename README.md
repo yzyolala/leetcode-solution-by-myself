@@ -137,4 +137,4 @@ Recursion
 Cross Training I
 --
 
-* [115. Array Deduplication I]()
+* [115. Array Deduplication I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/115.%20Array%20Deduplication%20I.md)
