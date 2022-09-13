@@ -134,7 +134,7 @@ Recursion
 
 * [646. Store Number Of Nodes In Left Subtree](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/646.%20Store%20Number%20Of%20Nodes%20In%20Left%20Subtree.md)
 
-Cross Training I
+Cross Training
 --
 
 * [115. Array Deduplication I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/115.%20Array%20Deduplication%20I.md)
@@ -146,3 +146,19 @@ Cross Training I
 * [180. 2 Sum](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/180.%202%20Sum.md)
 
 * [103. Longest Consecutive 1s](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/103.%20Longest%20Consecutive%201s.md)
+
+* [650. Common Numbers Of Two Arrays I(Array version)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/650.%20Common%20Numbers%20Of%20Two%20Arrays%20I(Array%20version).md)
+
+* [651. Common Numbers Of Two Arrays II(Array version)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/651.%20Common%20Numbers%20Of%20Two%20Arrays%20II(Array%20version).md)
+
+* [206. Majority Number I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/206.%20Majority%20Number%20I.md)
+
+* [33. Number Of Nodes](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/33.%20Number%20Of%20Nodes.md)
+
+* [49. Identical Binary Tree](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/49.%20Identical%20Binary%20Tree.md)
+
+* [69. Missing Number II](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/69.%20Missing%20Number%20II.md)
+
+* [76. All Unique Characters I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/76.%20All%20Unique%20Characters%20I.md)
+
+* [83. Encode Space](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/83.%20Encode%20Space.md)
