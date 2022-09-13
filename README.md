@@ -162,3 +162,5 @@ Cross Training
 * [76. All Unique Characters I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/76.%20All%20Unique%20Characters%20I.md)
 
 * [83. Encode Space](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/83.%20Encode%20Space.md)
+
+* [376. Ascending Triple I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/376.%20Ascending%20Triple%20I.md)
