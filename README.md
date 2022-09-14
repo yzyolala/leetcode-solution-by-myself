@@ -11,7 +11,7 @@ Binary Search
 
 * [17. Closest In Sorted Array](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/17.%20Closest%20In%20Sorted%20Array.md)
 
-* [15. First Occurrence](https://github.com/yzyolala/leetcode-solution-by-myself/edit/main/15.%20First%20Occurrence.md)
+* [15. First Occurrence](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/15.%20First%20Occurrence.md)
 
 * [561. Find the Kth Element in The Matrix](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/561.%20Find%20the%20Kth%20Element%20in%20The%20Matrix.md)
 
