@@ -106,7 +106,7 @@ DFS & Backtrack
 
 * [641. All Subsets II of Size K](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/641.%20All%20Subsets%20II%20of%20Size%20K.md)
 
-HashTable and String I
+HashTable and String
 --
 
 * [68. Missing Number I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/68.%20Missing%20Number%20I.md)
@@ -124,6 +124,8 @@ HashTable and String I
 * [79. Remove Adjacent Repeated Characters I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/79.%20Remove%20Adjacent%20Repeated%20Characters%20I.md)
 
 * [396. Reverse String](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/396.%20Reverse%20String.md)
+
+* [649. String Replace (basic)](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/649.%20String%20Replace%20(basic).md)
 
 Recursion
 --
