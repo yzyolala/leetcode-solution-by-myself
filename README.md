@@ -17,6 +17,11 @@ Binary Search
 
 * [636. Smallest Element Larger than Target](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/636.%20Smallest%20Element%20Larger%20than%20Target.md)
 
+Sorting Alogrithms
+--
+
+* [4. Selection Sort](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/4.%20Selection%20Sort.md)
+
 LinkedList
 --
 
