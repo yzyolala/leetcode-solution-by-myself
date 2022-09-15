@@ -22,6 +22,8 @@ Sorting Alogrithms
 
 * [4. Selection Sort](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/4.%20Selection%20Sort.md)
 
+* [258. Move 0s To The End I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/258.%20Move%200s%20To%20The%20End%20I.md)
+
 LinkedList
 --
 
