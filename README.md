@@ -15,6 +15,8 @@ Binary Search
 
 * [561. Find the Kth Element in The Matrix](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/561.%20Find%20the%20Kth%20Element%20in%20The%20Matrix.md)
 
+* [636. Smallest Element Larger than Target](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/636.%20Smallest%20Element%20Larger%20than%20Target.md)
+
 LinkedList
 --
 
