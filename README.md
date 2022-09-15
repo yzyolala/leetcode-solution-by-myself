@@ -24,6 +24,8 @@ Sorting Alogrithms
 
 * [258. Move 0s To The End I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/258.%20Move%200s%20To%20The%20End%20I.md)
 
+* [11. Rainbow Sort](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/11.%20Rainbow%20Sort.md)
+
 LinkedList
 --
 
