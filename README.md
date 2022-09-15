@@ -132,6 +132,8 @@ HashTable and String
 Recursion
 --
 
+* [13. a to the power of b](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/13.%20a%20to%20the%20power%20of%20b.md)
+
 * [121. Spiral Order Traverse I](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/121.%20Spiral%20Order%20Traverse%20I.md)
 
 * [122. Spiral Order Traverse II](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/122.%20Spiral%20Order%20Traverse%20II.md)
