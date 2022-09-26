@@ -17,6 +17,8 @@ Binary Search
 
 * [636. Smallest Element Larger than Target](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/636.%20Smallest%20Element%20Larger%20than%20Target.md)
 
+* [20. Search In Unknown Sized Sorted Array](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/20.%20Search%20In%20Unknown%20Sized%20Sorted%20Array.md)
+
 Sorting Alogrithms
 --
 
