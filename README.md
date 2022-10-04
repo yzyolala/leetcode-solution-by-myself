@@ -58,7 +58,7 @@ LinkedList
 Queue & Stack
 --
 
-* [小结]()
+* [小结](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/%E5%B0%8F%E7%BB%93.md)
 
 * [280. Sort With 2 Stacks](https://github.com/yzyolala/leetcode-solution-by-myself/blob/main/280.%20Sort%20With%202%20Stacks.md)
 
